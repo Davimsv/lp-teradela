@@ -189,7 +189,7 @@ header{
 }
 
 .pool-deck-img{
-    background: url("/assets/img/Teradela-Vilar-de-Andrade-Lazer.png") no-repeat bottom / cover;
+    background: url("../assets/img/Teradela-Vilar-de-Andrade-Lazer.png") no-repeat bottom / cover;
     height: 400px;
 }
 .fachada-secundaria{
