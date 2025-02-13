@@ -182,19 +182,19 @@ header{
 
 .fachada-principal{
     height: 65vh;
-    background: url("/assets/img/Teradela-Vilar-de-Andrade-Fachada.png") no-repeat bottom / cover;
+    background: url("assets/img/Teradela-Vilar-de-Andrade-Fachada.png") no-repeat bottom / cover;
 }
 .form-area{
     margin-top: -9rem;
 }
 
 .pool-deck-img{
-    background: url("./assets/img/Teradela-Vilar-de-Andrade-Lazer.png") no-repeat bottom / cover;
+    background: url("assets/img/Teradela-Vilar-de-Andrade-Lazer.png") no-repeat bottom / cover;
     height: 400px;
 }
 .fachada-secundaria{
     height: 700px;
-    background: url("/assets/img/Teradela-Vilar-de-Andrade-Fachada-2.png") no-repeat bottom / cover;
+    background: url("assets/img/Teradela-Vilar-de-Andrade-Fachada-2.png") no-repeat bottom / cover;
 }
 .divider{
     display: inline-flex;
